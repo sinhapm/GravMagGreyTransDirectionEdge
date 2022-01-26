@@ -12,7 +12,7 @@ It takes the 2D gridded points input (Irap Classic Points format) such as Input 
 
 Input File can be Regular spaced Rectangular/Square Grid Points or may be Regular spaced Oblique Grid Points, which is padded with nearest outer points to make it Regular spaced Rectangular Grid Points.
 
->Sample input ASCII file (Regular spaced Rectangular Grid Points), PPT file & output ASCII file are attached for the reference in the folder **./Reference**
+>Sample input ASCII file (Regular spaced Rectangular Grid Points), PDF file & output ASCII file are attached for the reference in the folder **./Reference**
 
 ------------------------------------------------------------------------------------------
 Runtime Input Parameters:
