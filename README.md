@@ -15,7 +15,7 @@ Input File can be Regular spaced Rectangular/Square Grid Points or may be Regula
 >Sample input ASCII file (Regular spaced Rectangular Grid Points), PDF file & output ASCII file are attached for the reference in the folder **./Reference**
 
 ------------------------------------------------------------------------------------------
-Runtime Input Parameters:
+**Runtime Input Parameters**:
 
 Size of Filtering Window (positive odd numbers only), minimum default =3
 
@@ -27,7 +27,8 @@ Multi-Direction Flag = Y/N, Yes/No
 
 ------------------------------------------------------------------------------------------
 
-Outputs are followings: 
+**Outputs are followings**: 
+
 NSTD (All Direction) = NSTD for all values (360 deg)
 
 Additionally, if multi-Direction flag is Y/Yes
@@ -42,11 +43,22 @@ NSTD_NESW = Filtered NSTD for NE-SW Direction - Edge/Lineament along effective N
 
 ------------------------------------------------------------------------------------------
 
-Output file (ASCII) format: 1. Petrel Points with attributes file or 2. Tab delimited Columnar file  
+**Output file (ASCII) format**:
+  1. Petrel Points with attributes file or 
+  2. Tab delimited Columnar file  
+
+------------------------------------------------------------------------------------------
+**References**:
+
+* Gray-level transformation and Canny edge detection for 3D seismic discontinuity enhancement, Haibin Di, Dengliang Gao, SEG Houston 2013 Annual Meeting, http://dx.doi.org/10.1190/segam2013-1175.1
+
+* Edge enhancement of potential-field data using normalized statistics, Gordon R. J. Cooper and Duncan R. Cowan, GEOPHYSICS, VOL. 73, NO. 3 MAY-JUNE 2008; P. H1–H4, https://doi.org/10.1190/1.2837309
 
 ------------------------------------------------------------------------------------------
 The usage of the program is limited to its scope and user has to ascertain the program output applicability to its scope of work, accuracy etc.
 
-Contact details: Prashant Sinha [e-mail:sinha.pm@gmail.com]
+**Contact**: 
+  
+  Prashant Sinha [e-mail:sinha.pm@gmail.com]
 
 ------------------------------------------------------------------------------------------
