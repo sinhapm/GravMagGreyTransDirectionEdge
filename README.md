@@ -43,6 +43,12 @@ NSTD_NESW = Filtered NSTD for NE-SW Direction - Edge/Lineament along effective N
 
 ------------------------------------------------------------------------------------------
 
+**Sample output image (zoomed)**:
+
+![](./Reference/images/Image_zoomed.jpg)
+
+------------------------------------------------------------------------------------------
+
 **Output file (ASCII) format**:
   1. Petrel Points with attributes file or 
   2. Tab delimited Columnar file  
