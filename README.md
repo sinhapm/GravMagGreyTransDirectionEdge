@@ -57,8 +57,10 @@ NSTD_NESW = Filtered NSTD for NE-SW Direction - Edge/Lineament along effective N
 ------------------------------------------------------------------------------------------
 The usage of the program is limited to its scope and user has to ascertain the program output applicability to its scope of work, accuracy etc.
 
-**Contact**: 
+Any help and/or suggestions will be greatly appreciated. 
+Thank you.
   
-  Prashant Sinha [e-mail:sinha.pm@gmail.com]
+**Prashant M. Sinha**
+[e-mail:**sinha.pm@gmail.com**]
 
 ------------------------------------------------------------------------------------------
