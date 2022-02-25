@@ -47,6 +47,8 @@ NSTD_NESW = Filtered NSTD for NE-SW Direction - Edge/Lineament along effective N
 
 ![](./Reference/images/Image_zoomed.jpg)
 
+Open source Free Air Gravity data downloaded from the following site: https://topex.ucsd.edu/cgi-bin/get_data.cgi
+
 ------------------------------------------------------------------------------------------
 
 **Output file (ASCII) format**:
